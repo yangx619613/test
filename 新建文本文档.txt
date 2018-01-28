@@ -1,0 +1,3 @@
+启动服务：mysqld  --console
+mysql知识点：
+varchar转换int：order by id+0  mysql 让字符加上一个数字就会自动变成数字；相当于oracle中to_number函数
